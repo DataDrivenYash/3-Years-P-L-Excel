@@ -4,7 +4,7 @@
 
 ## 📌 Project Overview
 
-This project is designed to calculate and analyze Profit and Loss (P&L) statements using an Excel spreadsheet. The dataset consists of financial records categorized under specific codes, accounts, partner companies, and transaction amounts for the years 2016, 2017, and 2018.
+This project is designed to calculate and analyze Profit and Loss (P&L) statements using an Excel spreadsheet. The dataset consists of financial records categorized under accounts, codes, partner companies, and transaction amounts for the years 2016, 2017, and 2018.
 
 ## 📂 File Structure
 
